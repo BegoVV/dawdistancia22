@@ -1,7 +1,7 @@
 <?php
 /**
  * Archivo pratica-verdugo.php
- *
+ * ESTE ES UN COMETARIO AÑADIDO PARA DETECTAR CAMBIO EN REPOSITORIO CLONADO
  * @
  * @author Bego Verdugo <bvvdev@gmail.com>
  * @versión 1.0
